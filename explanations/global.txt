@@ -1,0 +1,9 @@
+install zustand
+
+create the desired hook for the global management with create from zustand and an interface
+
+use that hook to change the states in for example the modal in modals in component
+
+then we create a provider to ensure the global state works everywhere in our project, by the way the mounted thing in the modal-provider is about to fix an hidration error that usually ocurrs with modals client and server
+
+we can then use the state in useStoreModal to open and close the store-modal just calling them

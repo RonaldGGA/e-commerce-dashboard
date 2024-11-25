@@ -1,0 +1,1 @@
+the layout just checks if there is actually an store in the storeId passed in, besides it checks if the user is currently logged in

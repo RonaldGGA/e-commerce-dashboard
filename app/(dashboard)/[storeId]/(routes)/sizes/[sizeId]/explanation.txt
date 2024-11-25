@@ -1,0 +1,1 @@
+We use the [] to make a dinamic form, if its passed the billboardId as a param, it will load a form for updating the bilboard if there is an actual billboardId passed in, otherwise we get a new form to create a new billboard
